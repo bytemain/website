@@ -29,6 +29,6 @@ macOS requires [Homebrew](https://brew.sh) to install the prerequisite software.
 After Homebrew was installed, you can install the requirements using:
 
 ```bash
-brew tap sidneys/homebrew
-brew install cabextract wimlib cdrtools sidneys/homebrew/chntpw
+brew tap minacle/chntpw
+brew install cabextract wimlib cdrtools minacle/chntpw/chntpw
 ```
